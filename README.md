@@ -1,2 +1,2 @@
-# gradle-template
+# gradle fatjar template
  
